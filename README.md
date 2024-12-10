@@ -82,13 +82,6 @@ The application follows a component-based architecture with clear separation of 
    - Clear TypeScript interfaces for type safety
    - Shared types between components
 
-### Performance Considerations
-
-- Memoized callbacks for event handlers
-- Efficient text processing algorithms
-- Responsive design for all screen sizes
-- Optimized rendering with React's virtual DOM
-
 ### Code Quality
 
 - TypeScript for type safety
@@ -96,25 +89,3 @@ The application follows a component-based architecture with clear separation of 
 - Modular component structure
 - Clear separation of concerns
 - Consistent code style
-
-## Building for Production
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-The build artifacts will be stored in the `dist/` directory.
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
